@@ -1,12 +1,12 @@
 {
   "version": 8,
-  "sprite": "https://raw.githubusercontent.com/OrdnanceSurvey/OS-Vector-Tile-API-Stylesheets/master/OS_VTS_3857/resources/sprites/dark",
+  "sprite": "https://raw.githubusercontent.com/NixMichael/mapstylejson/insights",
   "glyphs": "https://api.os.uk/maps/vector/v1/vts/resources/fonts/{fontstack}/{range}.pbf",
   "sources": {
     "esri": {
       "type": "vector",
       "tiles": [
-        "https://api.os.uk/maps/vector/v1/vts/tile/{z}/{y}/{x}.pbf"
+        "https://api.os.uk/maps/vector/v1/vts/resources/styles"
       ],
       "maxzoom": 15,
       "minzoom": 0
