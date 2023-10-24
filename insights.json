@@ -6,7 +6,7 @@
     "esri": {
       "type": "vector",
       "tiles": [
-        "https://api.os.uk/maps/vector/v1/vts/resources/styles"
+        "https://api.os.uk/maps/vector/v1/vts/resources/styles?key=GkIf5nc1U116hXH9cDAjxM1ESmAcBmZG"
       ],
       "maxzoom": 15,
       "minzoom": 0
