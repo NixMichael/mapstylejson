@@ -1,7 +1,7 @@
 {
   "version": 8,
-  "sprite": "https://raw.githubusercontent.com/NixMichael/mapstylejson/main/insights",
-  "glyphs": "https://api.os.uk/maps/vector/v1/vts/resources/fonts/{fontstack}/{range}.pbf",
+  "sprite": "https://api.os.uk/maps/vector/v1/vts/resources/sprites/sprite?key=GkIf5nc1U116hXH9cDAjxM1ESmAcBmZG",
+  "glyphs": "https://api.os.uk/maps/vector/v1/vts/resources/fonts/{fontstack}/{range}.pbf?key=GkIf5nc1U116hXH9cDAjxM1ESmAcBmZG",
   "sources": {
     "esri": {
       "type": "vector",
