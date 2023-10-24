@@ -1,6 +1,6 @@
 {
   "version": 8,
-  "sprite": "https://raw.githubusercontent.com/NixMichael/mapstylejson/insights",
+  "sprite": "https://raw.githubusercontent.com/NixMichael/mapstylejson/main/insights",
   "glyphs": "https://api.os.uk/maps/vector/v1/vts/resources/fonts/{fontstack}/{range}.pbf",
   "sources": {
     "esri": {
